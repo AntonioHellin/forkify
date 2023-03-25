@@ -4,7 +4,7 @@
   "description": "Recipe application",
   "main": "controller.js",
   "scripts": {
-    "start": "parcel index.html",
+    "start": "parcel --open chrome index.html",
     "build": "parcel build index.html"
   },
   "author": "Antonio Hellin",
