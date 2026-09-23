@@ -1,5 +1,5 @@
 {
-  "name": "forkify",
+  "name": "recipe-manager-app",
   "version": "1.0.0",
   "description": "Recipe application",
   "main": "controller.js",
