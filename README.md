@@ -49,7 +49,3 @@ Start the local Parcel development server:
 npm start
 ```
 The application will open automatically in your browser at `http://localhost:1234`.
-
-## License
-
-This project is licensed under the ISC License.
