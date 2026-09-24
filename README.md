@@ -1,10 +1,10 @@
-# recipe-manager-app
+# forkify
 
 A modular vanilla JavaScript recipe management platform featuring real-time API queries, persistent bookmarking, dynamic serving adjustments, and custom recipe creation.
 
 ## Project Overview
 
-`recipe-manager-app` provides an interactive recipe interface engineered with ES6+ JavaScript following strict Model-View-Controller (MVC) architectural separation. Built with Parcel, it integrates with the Forkify v2 REST API to deliver instant recipe searches, fractional ingredient calculation, and local storage persistence.
+`forkify` provides an interactive recipe interface engineered with ES6+ JavaScript following strict Model-View-Controller (MVC) architectural separation. Built with Parcel, it integrates with the Forkify v2 REST API to deliver instant recipe searches, fractional ingredient calculation, and local storage persistence.
 
 ## Features
 
